@@ -1,0 +1,12 @@
+{
+  "name": "max-clawbot",
+  "version": "1.0.0",
+  "description": "OpenClaw bot for WhatsApp/Telegram",
+  "main": "index.js",
+  "dependencies": {
+    "openclaw": "latest"
+  },
+  "scripts": {
+    "start": "openclaw start"
+  }
+}
